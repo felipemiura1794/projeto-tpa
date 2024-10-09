@@ -1,33 +1,41 @@
-# Algoritmo de Ordenação por Bolha
+# Algoritmos em Portugol
 
 **Descrição:**
 
-Este algoritmo implementa o método de ordenação por bolha, um algoritmo de ordenação simples que compara elementos adjacentes de uma lista e os troca de lugar se estiverem na ordem errada.
+Este repositório contém uma coleção de algoritmos desenvolvidos em Portugol durante o curso de [Nome do Curso]. O objetivo é explorar conceitos fundamentais de programação, como estruturas de controle, vetores e funções.
 
-**Dados de entrada:**
+**Conteúdo:**
 
-* Um vetor de números inteiros.
+* **Algoritmos:**
+    * Ordenação: Bolha, Inserção, Seleção
+    * Busca: Sequencial, Binária
+    * Matemáticos: Fatorial, Fibonacci, Máximo Divisor Comum
+    * Outros: Simulações, Jogos
 
-**Dados de saída:**
+* **Documentação:**
+    * Cada algoritmo possui um arquivo .md com explicações detalhadas sobre a lógica utilizada e exemplos de uso.
 
-* O mesmo vetor, agora ordenado em ordem crescente.
+**Como usar:**
 
-**Passos do algoritmo:**
+1. **Clone o repositório:** `git clone https://github.com/seu-usuario/algoritmos-portugol.git`
+2. **Escolha um algoritmo:** Navegue até a pasta correspondente.
+3. **Execute o algoritmo:** Utilize um interpretador de Portugol ou converta o código para outra linguagem.
 
-1. **Repetir:** para cada elemento do vetor
-    * **Repetir:** para cada elemento, exceto o último
-        * **Se:** o elemento atual for maior que o próximo elemento
-            * **Então:** trocar os elementos de lugar
+**Contribuições:**
 
-**Casos de teste:**
+Contribuições são bem-vindas! Abra um pull request para adicionar novos algoritmos, corrigir erros ou melhorar a documentação.
 
-* **Entrada:** [5, 2, 4, 6, 1, 3]
-* **Saída esperada:** [1, 2, 3, 4, 5, 6]
+**Licença:**
 
-**Dificuldades:**
+Este projeto está licenciado sob a licença MIT.
 
-* Inicialmente, tive dificuldade em entender o funcionamento das trocas entre os elementos.
+[Imagem de um diagrama de fluxo]
 
-**Autor:**
+**Tecnologias:**
 
-* Seu nome - seu.email@example.com
+* **Linguagem:** Portugol
+* **Editor:** VisualG
+
+**Badges:**
+
+[Insira aqui seus badges, por exemplo, badges de linguagem, testes, cobertura de código]
